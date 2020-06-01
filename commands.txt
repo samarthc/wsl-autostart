@@ -1,1 +1,1 @@
-service dbus start
+/etc/init.d/dbus
